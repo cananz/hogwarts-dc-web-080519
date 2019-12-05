@@ -4,6 +4,7 @@ const hogs = [
     specialty: 'Mediocre magic',
     greased: false,
     weight: 2.0,
+    image: 'https://images.pexels.com/photos/63285/pig-alp-rona-furna-sow-63285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
     'highest medal achieved': 'bronze'
   },
   {
@@ -11,6 +12,7 @@ const hogs = [
     specialty: 'Making friends',
     greased: true,
     weight: 1.6,
+    image: 'https://images.pexels.com/photos/63285/pig-alp-rona-furna-sow-63285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
     'highest medal achieved': 'silver'
   },
   {
@@ -18,6 +20,7 @@ const hogs = [
     specialty: 'truffle finder',
     greased: false,
     weight: 0.7,
+    image: 'https://images.pexels.com/photos/63285/pig-alp-rona-furna-sow-63285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
     'highest medal achieved': 'gold'
   },
   {
